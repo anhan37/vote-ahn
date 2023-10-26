@@ -21,17 +21,12 @@ h1 {
 
 img {
     border-radius: 10px;
-    width: 275px;
+    width: 300px;
 }
 
 .vote div {
     margin: 0 15px;
-}
-
-.hasil-vote {
-    margin: 0 10px;
-    margin-bottom: 10px;
-}
+}    
 
 .vote .vote-1 {
     text-align: center;
